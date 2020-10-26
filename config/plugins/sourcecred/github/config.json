@@ -40,5 +40,7 @@
     "1Hive/honeyswap-unipool-frontend",
     "1Hive/unipool",
     "1Hive/honeycomb-subgraph",
-    "1Hive/assistant-bee"
+    "1Hive/assistant-bee",
+    "1Hive/stats",
+    "1Hive/conviction-voting-cadcad"
 ]}
